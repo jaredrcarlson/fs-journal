@@ -43,7 +43,7 @@
             display: flex;
         }  
       ```
-    > Flexbox's underlying principle is to make layouts flexible and intuitive. It provides an easier way (than the classic top to bottom block layout) to manage the layout of your site. You can justify (horizontal) content and align (vertical) content much easier than traditional CSS.
+    Flexbox's underlying principle is to make layouts flexible and intuitive. It provides an easier way (than the classic top to bottom block layout) to manage the layout of your site. You can justify (horizontal) content and align (vertical) content much easier than traditional CSS.
 
 11. What `CSS` properties affect the size of a box model?
     > Adjusting properties associated with Margin, Border, and Padding will affect the size of a box model.
