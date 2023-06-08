@@ -24,10 +24,10 @@
         }
     ```
 
-    > ```selector {
-        property: value;
-    }
-    ```
+    > selector {
+    >    property: value;
+    >}
+    
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > When a site looks good, it feels good to use and vica versa. A well designed website will attract more traffic and visitors will stay longer. Through design alone, you can create certain emotions for your visitors to help accomplish the site goals. Apple's website is a great example of how design can inspire customers to purchase products.
