@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/jaredrcarlson/coolsite)**
-* **[Repo](https://github.com/jaredrcarlson/clonesite)**
-* **[Repo](https://github.com/jaredrcarlson/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/jaredrcarlson/<ASSIGNMENT_REPO>)**
+* **[Tue - Cool Site](https://github.com/jaredrcarlson/coolsite)**
+* **[Wed - Clone Site ](https://github.com/jaredrcarlson/clonesite)**
+* **[Thu - Pair Clone](https://github.com/jaredrcarlson/pairclone)**
+* **[Fri - Checkpoint](https://github.com/jaredrcarlson/<ASSIGNMENT_REPO>)**
