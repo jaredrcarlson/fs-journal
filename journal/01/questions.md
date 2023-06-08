@@ -50,3 +50,4 @@
 
 11. What `CSS` properties affect the size of a box model?
     > Adjusting properties associated with Margin, Border, and Padding will affect the size of a box model.
+    > Adjusting inline-size, block-size, width, and height affect the content box.
