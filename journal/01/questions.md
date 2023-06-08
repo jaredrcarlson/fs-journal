@@ -24,9 +24,11 @@
         }
     ```
 
-    > selector {
-    >    property: value;
-    >}
+    > ```css
+    >    selector {
+    >       property: value;
+    >    }
+    > ```
     
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
@@ -40,7 +42,7 @@
 
 10. Define the display `:flex property:`
     > ```css
-        .target {
+        .class-name {
             display: flex;
         }  
       ```
