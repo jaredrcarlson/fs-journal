@@ -57,11 +57,11 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > You can use a debugger to stop execution as certain points (using breakpoints) in your code and observe what values are stored throughout your code at any given time. A debugger allows you to step through your code line by line if needed to see "what is happening under the hood."
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > The key difference is how their values are stored in memory. The in-memory value of a primitive is the value itself whereas the in-memory value of a reference is a memory address which points to where the object data is stored. Primitive values are stored with a fixed size while reference values are dynamicly stored.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
