@@ -57,7 +57,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > You can use a debugger to stop execution as certain points (using breakpoints) in your code and observe what values are stored throughout your code at any given time. A debugger allows you to step through your code line by line if needed to see "what is happening under the hood."
+    > You can use a debugger to stop execution as certain points (using breakpoints) in your code and observe what values are stored throughout your code at any given time. A debugger allows you to step through your code line by line if needed to see "what is happening under the hood." The Chrome developer tools is a great debugging tool.
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
