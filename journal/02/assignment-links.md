@@ -2,5 +2,6 @@
 
 * **[Mon - Scoreboard](https://github.com/jaredrcarlson/scoreboard)**
 * **[Tue - Warehouse Manager](https://github.com/jaredrcarlson/warehouse)**
+* **[Tue - Immortal Swarm](https://github.com/jaredrcarlson/swarm)**
 * **[Repo]()**
 * **[Repo]()**
