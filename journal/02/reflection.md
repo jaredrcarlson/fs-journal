@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+Getting more familiar with JavaScript has been awesome!
+
 - What did you learn that was a shock or surprise?
+No shocks or surpises this week
+
 - What are you struggling with?
+No struggles this week
+
 - What would you count as a victory?
+I was able to use JavaScript to perform all of the actions needed to add interactivity to my front-end sites!

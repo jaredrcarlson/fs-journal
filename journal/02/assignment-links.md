@@ -4,4 +4,4 @@
 * **[Tue - Warehouse Manager](https://github.com/jaredrcarlson/warehouse)**
 * **[Tue - Immortal Swarm](https://github.com/jaredrcarlson/swarm)**
 * **[Wed - Ice Cream Parlor](https://github.com/jaredrcarlson/parlor)**
-* **[Repo]()**
+* **[Thu - Boss Monster](https://github.com/jaredrcarlson/bossmonster)**
