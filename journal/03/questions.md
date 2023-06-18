@@ -1,40 +1,40 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > Abstraction, Encapsulation, Inheritance, and Polymorphism
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > `Export default` is used to export a single value as the default export, while `export` with named exports is used to export multiple values as named exports.
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > Encapsulation brings data and the methods which operate on them together in a single unit. Encapsulation helps to control access to the unit.
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > //TODO
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > A class is a blueprint for creating an object while an instance is an actual object that has been created from the blueprint.
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > ES6 allows you to use an expression in brackets []. It’ll then use the result of the expression as the property name of an object. (This is super interesting to me)
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > The purpose of the MVC pattern is to make code easier to manage and develop by breaking up the frontend and backend pieces. Changes on either end should not cause issues on the other end if they are properly decoupled.
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The Controller responds to user input and performs interactions on the data model objects and updates the View with changes in the Model. (The Brains) 
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > The View (Service) handles data visualization. It is responsible for data presentation.
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > The Model recieves user input from the Controller and is responsible for managing the data of the application. The model handles data representation.
