@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > //TODO
+  > A Proxy object allows us to set `traps` when an object is accessed. We can change the default behaviors of `get` and `set` methods to add custom operations. Some benefits would be logging events for when an object's properties are read (get) or written (set). We can also use a Proxy object to prevent access to certain properties that we want to keep private by throwing an error within our custom get method instead of returning a value. Using a Proxy object to write a custom set method also allows us to validate data type values prior to assigning them to our object's properties.
 
 05. What the difference between a `class` and an instance of a `class`?
   
