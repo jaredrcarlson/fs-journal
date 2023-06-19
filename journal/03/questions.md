@@ -33,8 +33,7 @@
 
 09. What is the job of the `Service` in `MVC`?
   
-  > The View handles data visualization. It is responsible for data presentation.
-    Services are implemented to isolate business logic from the rest of the application.
+  > The Service is implemented to isolate business logic from the rest of the application.
 
 10. What is the job of the `Model` in `MVC`?
   
