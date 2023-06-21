@@ -2,5 +2,5 @@
 
 * **[Mon - Game Night](https://github.com/jaredrcarlson/gamenight)**
 * **[Tue - Vending Machine](https://github.com/jaredrcarlson/vendr)**
-* **[Wed - ]()**
+* **[Wed - Greg's List](https://github.com/jaredrcarlson/gregslist)**
 * **[Thu - ]()**
