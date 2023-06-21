@@ -33,7 +33,7 @@
 
 09. What is the job of the `Service` in `MVC`?
   
-  > The Service is implemented to isolate business logic from the rest of the application.
+  > The Service is implemented as a Singleton and is the only component that should make any application state changes.
 
 10. What is the job of the `Model` in `MVC`?
   
