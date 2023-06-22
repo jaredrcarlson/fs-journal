@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+I feel really good with my understanding of the MVC design pattern.
+
 - What did you learn that was a shock or surprise?
+Nothing was shocking this week
+
 - What are you struggling with?
+Styling still takes me a long time
+
 - What would you count as a victory?
+I've been able to meet the requirements for each lab this week!
