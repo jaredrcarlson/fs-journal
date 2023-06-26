@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Mon - ]()**
+* **[Mon - Trivia](https://github.com/jaredrcarlson/trivia)**
 * **[Tue - ]()**
 * **[Wed - ]()**
 * **[Thu - ]()**
