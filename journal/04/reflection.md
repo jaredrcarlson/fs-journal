@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+I'm feeling really good about API CRUD methods
+
 - What did you learn that was a shock or surprise?
+No surprises this week 
+
 - What are you struggling with?
+No struggles this week
+
 - What would you count as a victory?
+I was able to get my labs functional this week
