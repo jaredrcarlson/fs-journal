@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Mon - ]()**
+* **[Mon - Burger Shack](https://github.com/jaredrcarlson/burgershack)**
 * **[Tue - ]()**
 * **[Wed - ]()**
 * **[Thu - ]()**
